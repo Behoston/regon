@@ -1,0 +1,7 @@
+.idea/
+.eggs/
+regon.egg-info/
+dist/
+build/
+*.pyc
+.mypy_cache/

@@ -1,0 +1,2 @@
+recursive-include regon *
+global-exclude *.pyc
